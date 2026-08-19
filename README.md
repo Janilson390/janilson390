@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 
 ## 📊 Minhas Estatísticas do GitHub
 
-![Metrics](https://raw.githubusercontent.com/gist/Ev357/17d9fc0cbccd58aea20b392de2d88eba/raw/aa5379c97b7f1bf89105f0960fafdb389cdbd70e/github-metrics.svg)
+![Metrics](https://raw.githubusercontent.com/Janilson390/janilson390/refs/heads/master/assets/metrics.svg)
+
+
